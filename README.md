@@ -111,7 +111,7 @@ I built and launched **[insightsbyomkar.com](https://www.insightsbyomkar.com)** 
 
 <p>
   <a href="https://github.com/omkarjaliparthi">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/omkarjaliparthi">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/jaliparthiomkar">LinkedIn</a> ·
   <a href="mailto:Jaliparthiomkar03@gmail.com">Email</a> ·
   <a href="https://www.insightsbyomkar.com">Live product</a>
 </p>
