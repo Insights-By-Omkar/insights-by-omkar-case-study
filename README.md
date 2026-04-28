@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/hero.png" alt="Insights by Omkar — Case Study · v2.2.0 Phase 0 Launch · solo-shipped AI SaaS in 6 weeks" width="100%" />
+  <img src="./assets/hero.png" alt="Insights by Omkar — Case Study · production AI SaaS, solo-shipped" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://www.insightsbyomkar.com"><img src="https://img.shields.io/badge/Live_Product-insightsbyomkar.com-181717?style=for-the-badge" /></a>
   <img src="https://img.shields.io/badge/Built_by-Omkar_Jaliparthi-6E56CF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ship-6_weeks-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ship-6_weeks_to_v1_·_9%2B_weeks_to_Phase_2-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Live_with_paying_users-brightgreen?style=for-the-badge" />
 </p>
 
@@ -19,6 +19,8 @@
 
 Built and launched **[insightsbyomkar.com](https://www.insightsbyomkar.com)** — a production AI SaaS — in **6 weeks, solo**, under **Omkar's Holistic Services LLC** (formed May 2023, DBA *Insights by Omkar*). End to end: product, UX, full-stack engineering, payments, AI, email, support, compliance, launch.
 
+The 6-week core ship took the product from v0.01 to v2.2.0 (Phase 0 launch). Since then — **9+ weeks of sustained Phase 2 expansion** has taken it to **v2.19+**: from 97 to **139 API routes**, from 37 to **60 Supabase migrations**, from 33 to **38 admin panels**, plus the astrology-pillar pivot (paid tools, free reference + forecast surfaces, Kriya integration).
+
 Most PM/TPM candidates own one layer. This project evidences all four — and the judgment to know which layer to invest in at each stage.
 
 ---
@@ -29,14 +31,15 @@ Most PM/TPM candidates own one layer. This project evidences all four — and th
 
 ---
 
-## At a glance *(current: v2.2.0 — Phase 0 launch)*
+## At a glance &nbsp; <sub><i>last verified 2026-04-27 · current: v2.19+ — Phase 2 expansion</i></sub>
 
 | | |
 |---|---|
-| **Product** | AI consumer SaaS · 13 indexed content traditions · 5 paid AI chambers (tarot, custom spell, dream journal, rune cast, numerology) |
-| **Surface** | **1,200+ library entries** · 37 DB migrations · 33 admin panels · 100+ JSON-LD-enriched pages |
-| **Timeline** | v0.01 → v2.2.0 · ~6 weeks core ship + post-launch hardening · 2026-03-05 → ongoing |
-| **Releases** | 20+ versioned · full [CHANGELOG](https://github.com/omkarjaliparthi/insights-by-omkar) |
+| **Product** | AI consumer SaaS · 13+ indexed content traditions · 5 paid AI chambers (tarot, custom spell, dream journal, rune cast, numerology) · astrology pillar (paid tools + free reference + forecast surfaces) |
+| **Surface** | **1,200+ library entries** · **60 DB migrations** · **38 admin panels** · 100+ JSON-LD-enriched pages |
+| **Timeline** | v0.01 → v2.2.0 (Phase 0 launch in 6 weeks) → **v2.19+** (Phase 2 expansion, 9+ weeks of sustained cadence) · 2026-03-05 → ongoing |
+| **API surface** | **139 API routes** (consumer + admin) · powered by Kriya astrology API for chart math |
+| **Releases** | 40+ versioned · full [CHANGELOG](https://github.com/omkarjaliparthi/insights-by-omkar) |
 | **Stack** | Next.js 16 · React 19 · Supabase · TypeScript · Tailwind · Vercel |
 | **Payments** | Stripe (credits + subs, dual webhook endpoints) + PayPal (credits, CAPTURE intent) · Lucky Pro + Lucky Max tiers, M/A billing · Customer Portal |
 | **AI · content** | **Content Forge** (Chandra + Surya — blind dual review) → **Intelligence Triad** (Brahma + Vishnu + Shiva dual consensus) — every decision carries evidence, risk level 1-5, confidence 0-1.0 |
